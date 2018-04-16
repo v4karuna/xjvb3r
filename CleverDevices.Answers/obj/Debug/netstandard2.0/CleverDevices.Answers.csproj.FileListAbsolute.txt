@@ -1,0 +1,9 @@
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\bin\Debug\netstandard2.0\CleverDevices.Answers.deps.json
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\bin\Debug\netstandard2.0\CleverDevices.Answers.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\bin\Debug\netstandard2.0\CleverDevices.Answers.pdb
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\obj\Debug\netstandard2.0\CleverDevices.Answers.csproj.CoreCompileInputs.cache
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\obj\Debug\netstandard2.0\CleverDevices.Answers.AssemblyInfoInputs.cache
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\obj\Debug\netstandard2.0\CleverDevices.Answers.AssemblyInfo.cs
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\obj\Debug\netstandard2.0\CleverDevices.Answers.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\obj\Debug\netstandard2.0\CleverDevices.Answers.pdb
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Answers\obj\Debug\netstandard2.0\CleverDevices.Answers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\CleverDevices.Tests.deps.json
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\CleverDevices.Tests.runtimeconfig.json
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\CleverDevices.Tests.runtimeconfig.dev.json
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\CleverDevices.Tests.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\CleverDevices.Tests.pdb
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\CleverDevices.Answers.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\bin\Debug\netcoreapp2.0\CleverDevices.Answers.pdb
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\obj\Debug\netcoreapp2.0\CleverDevices.Tests.csprojResolveAssemblyReference.cache
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\obj\Debug\netcoreapp2.0\CleverDevices.Tests.csproj.CoreCompileInputs.cache
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\obj\Debug\netcoreapp2.0\CleverDevices.Tests.AssemblyInfoInputs.cache
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\obj\Debug\netcoreapp2.0\CleverDevices.Tests.AssemblyInfo.cs
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\obj\Debug\netcoreapp2.0\CleverDevices.Tests.dll
+\\skffs\users\Vikram Karuna\My Documents\Visual Studio 2017\Projects\CleverDevices\CleverDevices.Tests\obj\Debug\netcoreapp2.0\CleverDevices.Tests.pdb
